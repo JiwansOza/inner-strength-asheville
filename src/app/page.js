@@ -352,7 +352,7 @@ export default function Home() {
               variants={fadeIn}
               className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto"
             >
-              Join Asheville's premier fitness destination. State-of-the-art equipment, expert trainers, and a supportive community await you.
+              Join Asheville&apos;s premier fitness destination. State-of-the-art equipment, expert trainers, and a supportive community await you.
             </motion.p>
 
             <motion.div
